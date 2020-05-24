@@ -20,4 +20,4 @@ To get the best from these notebooks, you need to Install:
  
 # Contributing
 
-Lorenzo Basile, Ada Maragno, Giangaetano Pachera, Gianluca Sperduti 
+Lorenzo Basile, Ada Maragno, Giangaetano Pachera, Gianluca Sperdut i 
